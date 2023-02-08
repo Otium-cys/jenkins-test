@@ -7,6 +7,6 @@
     <h1>Hi, there (updated by dowon)</h1>
     <h1>jenkins TEST</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h1>jenkins TEST천영상ㄴㄴㄴ</h1>
+    <h1>jenkins TEST천영상하이루</h1>
 </body>
 </html>
